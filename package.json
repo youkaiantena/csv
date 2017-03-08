@@ -1,0 +1,22 @@
+{
+  "name": "csv-parse-sample",
+  "version": "1.0.0",
+  "description": "node.jsでCSV操作を勉強したかった",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/youkaiantena/csv-parse-sample.git"
+  },
+  "author": "youkaiantena",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/youkaiantena/csv-parse-sample/issues"
+  },
+  "homepage": "https://github.com/youkaiantena/csv-parse-sample#readme",
+  "dependencies": {
+    "csv": "^1.1.1"
+  }
+}
